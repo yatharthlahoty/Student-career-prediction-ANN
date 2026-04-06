@@ -92,4 +92,4 @@ model/career_model.keras
 ---
 
 ## 👨‍💻 Author
-Devyanshu
+Yatharth
